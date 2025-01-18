@@ -35,7 +35,7 @@ src/
 └── .gitattributes
 ```
 
-## Imagem
+## Imagens no Postman
 
 ![Exemplo - Tarefas por Dono](https://drive.google.com/uc?export=view&id=1NXl9cCJ6Lo7KOyJ32vgdz2ZbfBM2__42)
 
