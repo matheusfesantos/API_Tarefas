@@ -35,6 +35,14 @@ src/
 └── .gitattributes
 ```
 
+## Imagem
+
+![Exemplo - Tarefas por Dono](https://drive.google.com/uc?export=view&id=1NXl9cCJ6Lo7KOyJ32vgdz2ZbfBM2__42)
+
+![Exemplo - Tarefas Registradas](https://drive.google.com/uc?export=view&id=1jQi0adj90vZ-H1Mjn5s3RX7FzKTV-ThF)
+
+![Exemplo - Usuário Específico](https://drive.google.com/uc?export=view&id=1s3lY6-R5wLMeb3ojMqhGnfqKLo_C-kuy)
+
 ## Funcionalidades
 
 A API permite as seguintes operações:
@@ -79,8 +87,6 @@ Retorna uma lista de todas as tarefas, com seus dados como nome, prazo de iníci
 
 **Endpoint:** `/tarefas`
 
-![Exemplo - Tarefas Registradas](https://drive.google.com/uc?export=view&id=1jQi0adj90vZ-H1Mjn5s3RX7FzKTV-ThF)
-
 ### 3. Contagem de Tarefas por Dono
 
 Retorna uma lista de todos os donos das tarefas e a quantidade de tarefas que cada um possui.
@@ -98,8 +104,6 @@ Retorna uma lista de todos os donos das tarefas e a quantidade de tarefas que ca
 ]
 ```
 
-![Exemplo - Tarefas por Dono](https://drive.google.com/uc?export=view&id=1NXl9cCJ6Lo7KOyJ32vgdz2ZbfBM2__42)
-
 ### 4. Informações de um Usuário Específico
 
 Retorna todas as tarefas associadas a um dono específico.
@@ -107,8 +111,6 @@ Retorna todas as tarefas associadas a um dono específico.
 **Método:** `GET`
 
 **Endpoint:** `/tarefas/{dono}`
-
-![Exemplo - Usuário Específico](https://drive.google.com/uc?export=view&id=1s3lY6-R5wLMeb3ojMqhGnfqKLo_C-kuy)
 
 ## Como Executar o Projeto
 
