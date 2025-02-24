@@ -99,8 +99,8 @@ Retorna uma lista de todos os donos das tarefas e a quantidade de tarefas que ca
 
 ```json
 [
-  "Matheus Ferreira: 3",
-  "Ana Silva: 2"
+  "Monkey D. Lufyy: 3",
+  "Ronoroa Zoro: 2"
 ]
 ```
 
