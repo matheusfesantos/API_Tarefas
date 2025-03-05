@@ -11,7 +11,7 @@ RUN apt update && apt install -y openjdk-17-jdk
 WORKDIR /app
 
 # Copia o JAR da aplicação para dentro do container
-COPY target/seu-app.jar app.jar
+COPY target/demo-0.0.1-SNAPSHOT.jar app.jar
 
 # Expõe a porta 8080 (padrão do Spring Boot)
 EXPOSE 8080
